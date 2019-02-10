@@ -3,7 +3,7 @@ pipeline {
     parameters {
         string(name: 'HARIKA', defaultValue: 'HARIKA', description: 'HI HOW ARE YOU?')
 
-        text(name: 'TASKS', defaultValue: 'TASKS', description: 'THIS IS TASK 8')
+        text(name: 'HARIKABIO', defaultValue: 'TBIO', description: 'THIS IS MY BIO')
 
         booleanParam(name: 'TrueFalse', defaultValue: true, description: 'THIS IS BOOLEAN')
 
